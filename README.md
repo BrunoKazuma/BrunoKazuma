@@ -1,7 +1,6 @@
-Hello World!
-My name is Bruno Costa
-learning programming
-learning is never too much
+Hello World! 
+
+There is always something to learn;
 
 <!---
 BrunoKazuma/BrunoKazuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
